@@ -57,7 +57,7 @@ nav:
           link: https://blog.auroraeve.com/
           icon: /img/日出.png #/img/favicon.ico
         - name: 旧版博客
-          link: https://oldblog.auroraeve.com/
+          link: https://betablog.auroraeve.com/
           icon: /img/日出.png #/img/favicon.ico
     - title: 项目
       item:

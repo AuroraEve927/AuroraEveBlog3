@@ -100,8 +100,13 @@ theme: anzhiyu #landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
+#deploy:
+#  type: ''
+
 deploy:
-  type: ''
+  type: git
+  repo: git@106.54.2.126:/home/git/repos/AuroraEveBlog3.git
+  branch: master
 
 # algolia搜索: https://github.com/LouisBarranqueiro/hexo-algoliasearch
 algolia:

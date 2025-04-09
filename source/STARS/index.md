@@ -18,15 +18,15 @@ date: 2024-05-09 11:20:06
   link_list:
     - name: 白嫖怪院长
       link: https://www.iiice.cn/#/
-      avatar: https://pic.xiaozhangstu.com/i/2024/05/16/664601dba5a9f.ico
+      avatar: https://img.meituan.net/csc/41034187dfd3edf625adf95d12764ab54850.png
       descr: 里面有丰富的资源
     - name: 一网一匠极速版
       link: https://ywyj.cn/
-      avatar: https://pic.xiaozhangstu.com/i/2024/05/16/66460246bb102.webp
+      avatar: https://ywyj.cn/logo.png
       descr: 一起发现有趣的新产品
     - name: 飞雪科技园
       link: https://feixue666.com/
-      avatar: https://pic.xiaozhangstu.com/i/2024/05/16/66460246e413b.webp
+      avatar: https://feixue666.com/wp-content/uploads/2023/05/2023051311453123.png
       descr: 飞雪666
 
 {% endflink %}
