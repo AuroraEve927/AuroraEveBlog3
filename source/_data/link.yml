@@ -1,16 +1,55 @@
-- class_name: 框架
-  flink_style: flexcard
-  hundredSuffix: ""
-  link_list:
-    - name: Hexo
-      link: https://hexo.io/zh-tw/
-      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-      descr: 快速、简单且强大的网站框架
-    - name: anzhiyu主题
-      link: https://blog.anheyu.com/
-      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
-      descr: 生活明朗，万物可爱
-      siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
+#- class_name: 框架
+#  flink_style: flexcard
+#  hundredSuffix: ""
+#  link_list:
+#    - name: Hexo
+#      link: https://hexo.io/zh-tw/
+#      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+#      descr: 快速、简单且强大的网站框架
+#    - name: anzhiyu主题
+#      link: https://blog.anheyu.com/
+#      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+#      descr: 生活明朗，万物可爱
+#      siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
+#    - name: a.d博客
+#      link: https://www.aiheadn.cn/
+#      avatar: https://q1.qlogo.cn/g?b=qq&nk=2585570153&s=100
+#      descr: 爱你所爱，行你所行
+#    - name: polar-bear～Blog
+#      link: https://polar-bear.eu.org/
+#      avatar: https://polar-bear.eu.org/img/hand.jpg
+#      descr: 如果不曾开始，永远不会抵达。
+#    - name: 茈羽酱的小屋
+#      link: https://moedk.com
+#      avatar: https://moedk.com/images/icon.png
+#      descr: 一个萌新站长的折腾日记
+#    - name: Fomalhaut🥝
+#      link: https://www.fomal.cc/
+#      avatar: https://www.fomal.cc/assets/avatar.webp
+#      descr: Future is now 🍭🍭🍭
+#      siteshot: https://source.fomal.cc/siteshot/www.fomal.cc.webp
+#    - name: 安知鱼
+#      link: https://blog.anheyu.com/
+#      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+#      descr: 生活明朗，万物可爱
+#      siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
+#    - name: 星雨博客
+#      link: https://www.wniui.com
+#      avatar: https://q1.qlogo.cn/g?b=qq&nk=1502586285&s=640
+#      descr: 专注优质网络资源分享的技术博客
+#    - name: Yves
+#      link: https://blog.maoyiwei.com
+#      avatar: https://blog.maoyiwei.com/upload/logo.jpeg
+#      descr: Welcome!
+#    - name: 晚夜的个人博客
+#      link: https://www.iczrx.cn
+#      avatar: https://q2.qlogo.cn/headimg_dl?dst_uin=1463656527&spec=640
+#      descr: 做好量变的准备，促进事物的质变。
+#      title: "Ponyboy的个人博客"
+#    - name: Ponyboy的个人博客
+#      link: https://ponyboy2005.github.io/
+#      avatar: https://s2.loli.net/2025/02/06/F3tk6dCEMUB45Qn.png
+#      descr: Stay alive
 
 - class_name: 推荐博客
   flink_style: telescopic
@@ -21,6 +60,13 @@
       avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
       descr: 生活明朗，万物可爱
       siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
+      color: vip
+      tag: 技术
+    - name: Fomalhaut🥝
+      link: https://www.fomal.cc/
+      avatar: https://www.fomal.cc/assets/avatar.webp
+      descr: Future is now 🍭🍭🍭
+      siteshot: https://source.fomal.cc/siteshot/www.fomal.cc.webp
       color: vip
       tag: 技术
 
@@ -34,3 +80,53 @@
       avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
       descr: 生活明朗，万物可爱
       recommend: true
+    - name: Fomalhaut🥝
+      link: https://www.fomal.cc/
+      avatar: https://www.fomal.cc/assets/avatar.webp
+      descr: Future is now 🍭🍭🍭
+      siteshot: https://source.fomal.cc/siteshot/www.fomal.cc.webp
+      recommend: true
+    - name: a.d博客
+      link: https://www.aiheadn.cn/
+      avatar: https://q1.qlogo.cn/g?b=qq&nk=2585570153&s=100
+      descr: 爱你所爱，行你所行
+    - name: polar-bear～Blog
+      link: https://polar-bear.eu.org/
+      avatar: https://polar-bear.eu.org/img/hand.jpg
+      descr: 如果不曾开始，永远不会抵达。
+    - name: 茈羽酱的小屋
+      link: https://moedk.com
+      avatar: https://moedk.com/images/icon.png
+      descr: 一个萌新站长的折腾日记
+#    - name: 安知鱼
+#      link: https://blog.anheyu.com/
+#      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+#      descr: 生活明朗，万物可爱
+#      siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
+    - name: 星雨博客
+      link: https://www.wniui.com
+      avatar: https://q1.qlogo.cn/g?b=qq&nk=1502586285&s=640
+      descr: 专注优质网络资源分享的技术博客
+    - name: Yves
+      link: https://blog.maoyiwei.com
+      avatar: https://blog.maoyiwei.com/upload/logo.jpeg
+      descr: Welcome!
+    - name: 晚夜的个人博客
+      link: https://www.iczrx.cn
+      avatar: https://q2.qlogo.cn/headimg_dl?dst_uin=1463656527&spec=640
+      descr: 做好量变的准备，促进事物的质变。
+      title: "Ponyboy的个人博客"
+    - name: Ponyboy的个人博客
+      link: https://ponyboy2005.github.io/
+      avatar: https://s2.loli.net/2025/02/06/F3tk6dCEMUB45Qn.png
+      descr: Stay alive
+
+- class_name: 我的友链
+  class_desc:
+  flink_style: tabs
+  hundredSuffix: ""
+  link_list:
+    - name: 安知鱼
+      link: https://blog.anheyu.com/
+      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+      descr: 生活明朗，万物可爱

@@ -151,7 +151,7 @@ envelope_comment:
 # 追番插件
 # https://github.com/HCLonely/hexo-bilibili-bangumi
 bangumi: # 追番设置
-  enable: true
+  enable: false #true
   source: bili
   path:
   vmid: 372204786

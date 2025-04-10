@@ -1,41 +1,293 @@
-- class_name: 世界各地夕阳与风景
-  path_name: /wordScenery
-  type: 2
-  description: 因为到不了世界各地，所以请网友们发来了各地的夕阳与风景🌇。
-  cover: https://bu.dusays.com/2023/04/09/64329399d1175.jpg
-  top_background: https://bu.dusays.com/2023/06/30/649e546ada7dd.webp
-  rowHeight: 220
-  limit: 10
-  lazyload: true
-  btnLazyload: false
-  url: false
-  top_link: /album
-  top_btn_text: 返回
-  album_list:
-    - date: 2022/10/26 01:00:00
-      content: 湘潭的一角。
-      address: 湖南湘潭
-      from: 再吃一口就减肥
-      image:
-        - https://bu.dusays.com/2023/04/09/64329399db122.webp
-    - date: 2022-10-25
-      content: 洛阳暴雨后的天空。
-      address: 河南洛阳
-      from: 紫菜卷
-      image:
-        - https://bu.dusays.com/2023/04/09/64329399db122.webp
-        - https://bu.dusays.com/2023/04/09/64329399db2e1.webp
-
-- class_name: 我的日常
+- class_name: 2025年度合集
   path_name: /dailyPhoto
   type: 1
-  description: 这里存放的是有关我自己的一些沙雕生活与有趣的事情。
+  description: 2025年摄影作品
   top_link: /album
   top_btn_text: 返回
-  top_background: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
-  cover: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
+  top_background: https://bu.dusays.com/2025/04/10/67f739cb8f045.jpg
+  cover: https://bu.dusays.com/2025/04/10/67f739cb8f045.jpg
   album_list:
-    - date: 2022-10-24
-      content: 老妹的画
+    - date: 2025-3-25
+      content: 求是大讲堂星轨
       image:
-        - https://bu.dusays.com/2023/04/09/643293997b92b.jpeg
+        - https://bu.dusays.com/2025/04/10/67f739cb8f045.jpg
+
+- class_name: 2024年度合集
+  path_name: /2024Yearbook
+  type: 1
+  description: 2024年摄影作品
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://bu.dusays.com/2025/04/10/67f739cb8f045.jpg
+  cover: https://bu.dusays.com/2025/04/10/67f739cb8f045.jpg
+  album_list:
+    - date: 2025-3-25
+      content: 求是大讲堂星轨
+      image:
+        - https://bu.dusays.com/2025/04/10/67f739cb8f045.jpg
+
+- class_name: 2023年度合集
+  path_name: /2023Yearbook
+  type: 1
+  description: 2023年摄影作品
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://bu.dusays.com/2025/04/10/67f739cb8f045.jpg
+  cover: https://bu.dusays.com/2025/04/10/67f739cb8f045.jpg
+  album_list:
+    - date: 2025-3-25
+      content: 求是大讲堂星轨
+      image:
+        - https://bu.dusays.com/2025/04/10/67f739cb8f045.jpg
+
+- class_name: 2022年度合集
+  path_name: /2022Yearbook
+  type: 1
+  description: 2022年摄影作品
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://bu.dusays.com/2025/04/11/67f7f969aee81.jpg
+  cover: https://bu.dusays.com/2025/04/11/67f7f969aee81.jpg
+  album_list:
+    - date: 2022-12-13
+      content: 坐飞机回家3
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7faac97b3e.jpg
+    - date: 2022-12-13
+      content: 坐飞机回家2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7fab323a17.jpg
+    - date: 2022-12-13
+      content: 坐飞机回家1
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7fab1a020c.jpg
+    - date: 2022-11-30
+      content: 紫金港看雪疫情3
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7fab2e9dea.jpg
+    - date: 2022-11-30
+      content: 紫金港看雪疫情2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7faabcb396.jpg
+    - date: 2022-11-30
+      content: 紫金港看雪疫情1
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7fab20da24.jpg
+    - date: 2022-11-27
+      content: 紫金港夜拍czl3
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7fab07ba34.jpg
+    - date: 2022-11-27
+      content: 紫金港夜拍czl2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7fab23a640.jpg
+    - date: 2022-11-27
+      content: 紫金港夜拍czl1
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7fab167df0.jpg
+    - date: 2022-10-2
+      content: 舟山11
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f969aee81.jpg
+    - date: 2022-10-2
+      content: 舟山10
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f96d8ddf6.jpg
+    - date: 2022-10-2
+      content: 舟山9
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f96dace3f.jpg
+    - date: 2022-10-2
+      content: 舟山8
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f96bb3500.jpg
+    - date: 2022-10-2
+      content: 舟山7
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f96b115e4.jpg
+    - date: 2022-10-2
+      content: 舟山6
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f96dea44e.jpg
+    - date: 2022-10-2
+      content: 舟山5
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f9642d352.jpg
+    - date: 2022-10-2
+      content: 舟山4
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f96bf3b1f.jpg
+    - date: 2022-10-2
+      content: 舟山3
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f96717b03.jpg
+    - date: 2022-10-2
+      content: 舟山2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f96d92167.jpg
+    - date: 2022-10-2
+      content: 舟山1
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f96e21ea1.jpg
+    - date: 2022-7-29
+      content: 山西大同5
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f84708f1a.jpg
+    - date: 2022-7-29
+      content: 山西大同4
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f84a78a5c.jpg
+    - date: 2022-7-29
+      content: 山西大同3
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f84973d8a.jpg
+    - date: 2022-7-29
+      content: 山西大同2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f84b3f3eb.jpg
+    - date: 2022-7-29
+      content: 山西大同1
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f84b22c74.jpg
+    - date: 2022-7-24
+      content: 第一次拍银河
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f7b04d072.jpg
+    - date: 2022-6-28
+      content: 西安交通大学7
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f251ee1fb.jpg
+    - date: 2022-6-28
+      content: 西安交通大学6
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f2502d85a.jpg
+    - date: 2022-6-28
+      content: 西安交通大学5
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f251349bd.jpg
+    - date: 2022-6-28
+      content: 西安交通大学4
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f25234e17.jpg
+    - date: 2022-6-28
+      content: 西安交通大学3
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f2514fe09.jpg
+    - date: 2022-6-28
+      content: 西安交通大学2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f24f3418c.jpg
+    - date: 2022-6-28
+      content: 西安交通大学1
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f250c197a.jpg
+    - date: 2022-6-27
+      content: 大唐芙蓉园8
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f24c21584.jpg
+    - date: 2022-6-27
+      content: 大唐芙蓉园7
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f24b18415.jpg
+    - date: 2022-6-27
+      content: 大唐芙蓉园6
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f2473910f.jpg
+    - date: 2022-6-27
+      content: 大唐芙蓉园5
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f24955f7c.jpg
+    - date: 2022-6-27
+      content: 大唐芙蓉园4
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f249615d8.jpg
+    - date: 2022-6-27
+      content: 大唐芙蓉园3
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f2475b0cb.jpg
+    - date: 2022-6-27
+      content: 大唐芙蓉园2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f24a93235.jpg
+    - date: 2022-6-27
+      content: 大唐芙蓉园1
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f23ef1875.jpg
+    - date: 2022-6-27
+      content: 大唐不夜城6
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f248114b4.jpg
+    - date: 2022-6-27
+      content: 大唐不夜城5
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f23d6d182.jpg
+    - date: 2022-6-27
+      content: 大唐不夜城4
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f24994c58.jpg
+    - date: 2022-6-27
+      content: 大唐不夜城2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f24942936.jpg
+    - date: 2022-6-26
+      content: 西安钟楼
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7f2f16077c.jpg
+    - date: 2022-8-31
+      content: 梦开始的地方4
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7eeaac632d.jpg
+    - date: 2022-6-9
+      content: 梦开始的地方3
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7eea99b3c5.jpg
+    - date: 2022-3-26
+      content: 梦开始的地方2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7eeaa78c9c.jpg
+    - date: 2022-3-26
+      content: 梦开始的地方1
+      image:
+        - https://bu.dusays.com/2025/04/11/67f7eeaac632d.jpg
+
+#- class_name: 世界各地夕阳与风景
+#  path_name: /wordScenery
+#  type: 2
+#  description: 因为到不了世界各地，所以请网友们发来了各地的夕阳与风景🌇。
+#  cover: https://bu.dusays.com/2023/04/09/64329399d1175.jpg
+#  top_background: https://bu.dusays.com/2023/06/30/649e546ada7dd.webp
+#  rowHeight: 220
+#  limit: 10
+#  lazyload: true
+#  btnLazyload: false
+#  url: false
+#  top_link: /album
+#  top_btn_text: 返回
+#  album_list:
+#    - date: 2022/10/26 01:00:00
+#      content: 湘潭的一角。
+#      address: 湖南湘潭
+#      from: 再吃一口就减肥
+#      image:
+#        - https://bu.dusays.com/2023/04/09/64329399db122.webp
+#    - date: 2022-10-25
+#      content: 洛阳暴雨后的天空。
+#      address: 河南洛阳
+#      from: 紫菜卷
+#      image:
+#        - https://bu.dusays.com/2023/04/09/64329399db122.webp
+#        - https://bu.dusays.com/2023/04/09/64329399db2e1.webp
+#
+#- class_name: 我的日常
+#  path_name: /dailyPhoto
+#  type: 1
+#  description: 这里存放的是有关我自己的一些沙雕生活与有趣的事情。
+#  top_link: /album
+#  top_btn_text: 返回
+#  top_background: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
+#  cover: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
+#  album_list:
+#    - date: 2022-10-24
+#      content: 老妹的画
+#      image:
+#        - https://bu.dusays.com/2023/04/09/643293997b92b.jpeg

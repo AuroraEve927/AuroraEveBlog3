@@ -350,7 +350,7 @@ addtoany:
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Valine/Waline/Twikoo/Artalk
-  use: Twikoo/Waline # Twikoo/Waline
+  use: Twikoo # Twikoo/Waline
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
@@ -396,9 +396,9 @@ waline:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId:
+  envId: https://twikoo-vercel-khaki-gamma.vercel.app
   region:
-  visitor: false
+  visitor: true #false
   option:
 
 # Artalk
@@ -1117,7 +1117,7 @@ home_top:
     tips: 旧版博客
     title: Old-blog
     image: https://bu.dusays.com/2025/04/08/67f545b8aed9b.png #https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
-    link: https://oldblog.auroraeve.com/ #https://docs.anheyu.com/
+    link: https://betablog.auroraeve.com/ #https://docs.anheyu.com/
 
 # 朋友圈配置
 friends_vue:
