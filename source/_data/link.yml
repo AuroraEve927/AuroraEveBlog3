@@ -121,12 +121,3 @@
       avatar: https://s2.loli.net/2025/02/06/F3tk6dCEMUB45Qn.png
       descr: Stay alive
 
-- class_name: 我的友链
-  class_desc:
-  flink_style: tabs
-  hundredSuffix: ""
-  link_list:
-    - name: 安知鱼
-      link: https://blog.anheyu.com/
-      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
-      descr: 生活明朗，万物可爱
