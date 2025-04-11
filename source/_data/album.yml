@@ -1,16 +1,37 @@
 - class_name: 2025年度合集
-  path_name: /dailyPhoto
+  path_name: /2025Yearbook
   type: 1
   description: 2025年摄影作品
   top_link: /album
   top_btn_text: 返回
-  top_background: https://bu.dusays.com/2025/04/10/67f739cb8f045.jpg
-  cover: https://bu.dusays.com/2025/04/10/67f739cb8f045.jpg
+  top_background: https://bu.dusays.com/2025/04/11/67f7f969aee81.jpg
+  cover: https://bu.dusays.com/2025/04/11/67f7f969aee81.jpg
   album_list:
-    - date: 2025-3-25
-      content: 求是大讲堂星轨
+    - date: 2025-04-08
+      content: 夜转日星轨3蓝调-2
       image:
-        - https://bu.dusays.com/2025/04/10/67f739cb8f045.jpg
+        - https://bu.dusays.com/2025/04/11/67f864bf7a849.jpg
+    - date: 2025-04-08
+      content: 夜转日星轨2午夜-2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864bcecb89.jpg
+    - date: 2025-04-08
+      content: 夜转日星轨1初夜-6
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864bf78f2b.jpg
+    - date: 2025-03-25
+      content: 求是大讲堂星轨2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864be5826d.jpg
+    - date: 2025-03-25
+      content: 求是大讲堂星轨1
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864bd5d3b4.jpg
+    - date: 2025-03-06
+      content: 樱花人像
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864bf8a093.jpg
+
 
 - class_name: 2024年度合集
   path_name: /2024Yearbook
@@ -18,13 +39,221 @@
   description: 2024年摄影作品
   top_link: /album
   top_btn_text: 返回
-  top_background: https://bu.dusays.com/2025/04/10/67f739cb8f045.jpg
-  cover: https://bu.dusays.com/2025/04/10/67f739cb8f045.jpg
+  top_background: https://bu.dusays.com/2025/04/11/67f864a25eec8.jpg
+  cover: https://bu.dusays.com/2025/04/11/67f864a25eec8.jpg
   album_list:
-    - date: 2025-3-25
-      content: 求是大讲堂星轨
+    - date: 2024-12-28
+      content: 星轨倒影2
       image:
-        - https://bu.dusays.com/2025/04/10/67f739cb8f045.jpg
+        - https://bu.dusays.com/2025/04/11/67f864bbe10a8.jpg
+    - date: 2024-12-28
+      content: 星轨倒影1
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864bea184a.jpg
+    - date: 2024-08-12
+      content: 英仙座流星雨2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864b3c46ac.jpg
+    - date: 2024-08-12
+      content: 英仙座流星雨
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864b634002.jpg
+    - date: 2024-06-29
+      content: 夏日萤火4
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864b9a29ad.jpg
+    - date: 2024-06-29
+      content: 夏日萤火3
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864ba4dc36.jpg
+    - date: 2024-06-29
+      content: 夏日萤火2-2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864b73c8be.jpg
+    - date: 2024-06-29
+      content: 夏日萤火2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864b63b08d.jpg
+    - date: 2024-06-29
+      content: 夏日萤火1-2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864b362cea.jpg
+    - date: 2024-06-29
+      content: 夏日萤火1
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864acce28e.jpg
+    - date: 2024-06-08
+      content: 衢州江郎山93
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864b507b7b.jpg
+    - date: 2024-06-08
+      content: 衢州江郎山92
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864ac24258.jpg
+    - date: 2024-06-08
+      content: 衢州江郎山91
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864b2defc6.jpg
+    - date: 2024-06-08
+      content: 衢州江郎山9
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864aa143d7.jpg
+    - date: 2024-06-08
+      content: 衢州江郎山8
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864b1031b3.jpg
+    - date: 2024-06-08
+      content: 衢州江郎山7
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864ab58cbc.jpg
+    - date: 2024-06-08
+      content: 衢州江郎山6
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864a726887.jpg
+    - date: 2024-06-08
+      content: 衢州江郎山5
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864a7b966d.jpg
+    - date: 2024-06-08
+      content: 衢州江郎山4
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864aa3ab81.jpg
+    - date: 2024-06-08
+      content: 衢州江郎山3
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864a208966.jpg
+    - date: 2024-06-08
+      content: 衢州江郎山2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864ad491fa.jpg
+    - date: 2024-06-08
+      content: 衢州江郎山1
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864a22a245.jpg
+    - date: 2024-05-28
+      content: 灿若星辰灯晚霞4
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864a34949e.jpg
+    - date: 2024-05-28
+      content: 灿若星辰灯晚霞3
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864a28fe91.jpg
+    - date: 2024-05-28
+      content: 灿若星辰灯晚霞2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864a092e22.jpg
+    - date: 2024-05-28
+      content: 灿若星辰灯晚霞1
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864a25eec8.jpg
+    - date: 2024-04-05
+      content: 七彩社区18
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864995a2ee.jpg
+    - date: 2024-04-05
+      content: 七彩社区17
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8649ae351b.jpg
+    - date: 2024-04-05
+      content: 七彩社区16
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864a12afed.jpg
+    - date: 2024-04-05
+      content: 七彩社区14
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864a1daa9f.jpg
+    - date: 2024-04-05
+      content: 七彩社区13
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8649d37fba.jpg
+    - date: 2024-04-05
+      content: 七彩社区12
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86497f2274.jpg
+    - date: 2024-04-05
+      content: 七彩社区11
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8649c34880.jpg
+    - date: 2024-04-05
+      content: 七彩社区10
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864931aeaf.jpg
+    - date: 2024-04-05
+      content: 七彩社区09
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8649d7e6db.jpg
+    - date: 2024-04-05
+      content: 七彩社区08
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86490a187c.jpg
+    - date: 2024-04-05
+      content: 七彩社区07
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864983665b.jpg
+    - date: 2024-04-05
+      content: 七彩社区06
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86492285e5.jpg
+    - date: 2024-04-05
+      content: 七彩社区05
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864938316b.jpg
+    - date: 2024-04-05
+      content: 七彩社区04
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8648e1dac6.jpg
+    - date: 2024-04-05
+      content: 七彩社区03
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86492c763c.jpg
+    - date: 2024-04-05
+      content: 七彩社区02
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86490c04d0.jpg
+    - date: 2024-04-05
+      content: 七彩社区01
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8648a645bc.jpg
+    - date: 2024-03-22
+      content: 第二次去太子湾91
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8649341718.jpg
+    - date: 2024-03-22
+      content: 第二次去太子湾9
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8648a99ee1.jpg
+    - date: 2024-03-22
+      content: 第二次去太子湾8
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86488ada4c.jpg
+    - date: 2024-03-22
+      content: 第二次去太子湾7
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86485bdb18.jpg
+    - date: 2024-03-22
+      content: 第二次去太子湾6
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86481c7192.jpg
+    - date: 2024-03-22
+      content: 第二次去太子湾5
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8648837b21.jpg
+    - date: 2024-03-22
+      content: 第二次去太子湾4
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86485a3da3.jpg
+    - date: 2024-03-22
+      content: 第二次去太子湾3
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86488714c7.jpg
+    - date: 2024-03-22
+      content: 第二次去太子湾2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8647c6fc1a.jpg
+    - date: 2024-03-22
+      content: 第二次去太子湾1
+      image:
+        - https://bu.dusays.com/2025/04/11/20240322第二次去太子湾1.jpg
 
 - class_name: 2023年度合集
   path_name: /2023Yearbook
@@ -32,13 +261,247 @@
   description: 2023年摄影作品
   top_link: /album
   top_btn_text: 返回
-  top_background: https://bu.dusays.com/2025/04/10/67f739cb8f045.jpg
-  cover: https://bu.dusays.com/2025/04/10/67f739cb8f045.jpg
+  top_background: https://bu.dusays.com/2025/04/11/67f8646cc972b.jpg
+  cover: https://bu.dusays.com/2025/04/11/67f8646cc972b.jpg
   album_list:
-    - date: 2025-3-25
-      content: 求是大讲堂星轨
+    - date: 2023-11-28
+      content: 中国香港99
       image:
-        - https://bu.dusays.com/2025/04/10/67f739cb8f045.jpg
+        - https://bu.dusays.com/2025/04/11/67f864803572f.jpg
+    - date: 2023-11-28
+      content: 中国香港98
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86482b05c9.jpg
+    - date: 2023-11-28
+      content: 中国香港97
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86484b8e5f.jpg
+    - date: 2023-11-28
+      content: 中国香港96
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864835fc7c.jpg
+    - date: 2023-11-28
+      content: 中国香港95
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8647e2a740.jpg
+    - date: 2023-11-28
+      content: 中国香港94
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864767f51c.jpg
+    - date: 2023-11-28
+      content: 中国香港93
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8647571349.jpg
+    - date: 2023-11-28
+      content: 中国香港92
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8647760882.jpg
+    - date: 2023-11-28
+      content: 中国香港91
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8647856212.jpg
+    - date: 2023-11-28
+      content: 中国香港9
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86475b1165.jpg
+    - date: 2023-11-28
+      content: 中国香港8
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8647ad282f.jpg
+    - date: 2023-11-28
+      content: 中国香港7
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86475af7a0.jpg
+    - date: 2023-11-28
+      content: 中国香港6
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86475b444d.jpg
+    - date: 2023-11-28
+      content: 中国香港5
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8646f8307a.jpg
+    - date: 2023-11-28
+      content: 中国香港4
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8646bbb312.jpg
+    - date: 2023-11-28
+      content: 中国香港3
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8647532800.jpg
+    - date: 2023-11-28
+      content: 中国香港2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8646a2e38a.jpg
+    - date: 2023-11-28
+      content: 中国香港1
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8646cc972b.jpg
+    - date: 2023-11-28
+      content: 中国香港
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86475f0071.jpg
+    - date: 2023-11-25
+      content: 庐州冬月魔方赛5
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8646aabffd.jpg
+    - date: 2023-11-25
+      content: 庐州冬月魔方赛4
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8646d03d2e.jpg
+    - date: 2023-11-25
+      content: 庐州冬月魔方赛3
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86465e9019.jpg
+    - date: 2023-11-25
+      content: 庐州冬月魔方赛2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8646198d56.jpg
+    - date: 2023-11-25
+      content: 庐州冬月魔方赛1
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864622068c.jpg
+    - date: 2023-11-06
+      content: 紫金港晚霞
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864673f20e.jpg
+    - date: 2023-10-22
+      content: 湘湖骑行4
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8645a61059.jpg
+    - date: 2023-10-22
+      content: 湘湖骑行3
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86460d3aaa.jpg
+    - date: 2023-10-22
+      content: 湘湖骑行2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f864620ea56.jpg
+    - date: 2023-10-22
+      content: 湘湖骑行1
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8646588758.jpg
+    - date: 2023-07-01
+      content: czl别离3
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8646b7fa7e.jpg
+    - date: 2023-07-01
+      content: czl别离2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86463830e6.jpg
+    - date: 2023-07-01
+      content: czl别离1
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8646e140a6.jpg
+    - date: 2023-05-01
+      content: 无锡蠡湖18
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8629870897.jpg
+    - date: 2023-05-01
+      content: 无锡蠡湖17
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8629808bd6.jpg
+    - date: 2023-05-01
+      content: 无锡蠡湖16
+      image:
+        - https://bu.dusays.com/2025/04/11/67f862963498c.jpg
+    - date: 2023-05-01
+      content: 无锡蠡湖15
+      image:
+        - https://bu.dusays.com/2025/04/11/67f862968bf5d.jpg
+    - date: 2023-05-01
+      content: 无锡蠡湖14
+      image:
+        - https://bu.dusays.com/2025/04/11/67f862927a0ca.jpg
+    - date: 2023-05-01
+      content: 无锡蠡湖13
+      image:
+        - https://bu.dusays.com/2025/04/11/67f862942965d.jpg
+    - date: 2023-05-01
+      content: 无锡蠡湖12
+      image:
+        - https://bu.dusays.com/2025/04/11/67f862947b4b0.jpg
+    - date: 2023-05-01
+      content: 无锡蠡湖11
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86294dde3f.jpg
+    - date: 2023-05-01
+      content: 无锡蠡湖10
+      image:
+        - https://bu.dusays.com/2025/04/11/67f862925aa33.jpg
+    - date: 2023-05-01
+      content: 无锡蠡湖09
+      image:
+        - https://bu.dusays.com/2025/04/11/67f862819bcd8.jpg
+    - date: 2023-05-01
+      content: 无锡蠡湖08
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86294e355a.jpg
+    - date: 2023-05-01
+      content: 无锡蠡湖07
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86281a755c.jpg
+    - date: 2023-05-01
+      content: 无锡蠡湖06
+      image:
+        - https://bu.dusays.com/2025/04/11/67f862915f2be.jpg
+    - date: 2023-05-01
+      content: 无锡蠡湖05
+      image:
+        - https://bu.dusays.com/2025/04/11/67f862844aab4.jpg
+    - date: 2023-05-01
+      content: 无锡蠡湖04
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8629669444.jpg
+    - date: 2023-05-01
+      content: 无锡蠡湖03
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8629594d1c.jpg
+    - date: 2023-05-01
+      content: 无锡蠡湖02
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8627d8ffc1.jpg
+    - date: 2023-05-01
+      content: 无锡蠡湖01
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86279166d2.jpg
+    - date: 2023-04-30
+      content: 无锡惠山古镇7
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8627b05384.jpg
+    - date: 2023-04-30
+      content: 无锡惠山古镇6
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8627a043fc.jpg
+    - date: 2023-04-30
+      content: 无锡惠山古镇5
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8627d88e16.jpg
+    - date: 2023-04-30
+      content: 无锡惠山古镇4
+      image:
+        - https://bu.dusays.com/2025/04/11/67f862701b7bd.jpg
+    - date: 2023-04-30
+      content: 无锡惠山古镇3
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8627fa93a0.jpg
+    - date: 2023-04-30
+      content: 无锡惠山古镇2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8627a8d560.jpg
+    - date: 2023-04-30
+      content: 无锡惠山古镇1
+      image:
+        - https://bu.dusays.com/2025/04/11/67f86279640a6.jpg
+    - date: 2023-02-25
+      content: 三潭印月2
+      image:
+        - https://bu.dusays.com/2025/04/11/67f862769b807.jpg
+    - date: 2023-02-25
+      content: 三潭印月1
+      image:
+        - https://bu.dusays.com/2025/04/11/67f8627c1510a.jpg
+
+
 
 - class_name: 2022年度合集
   path_name: /2022Yearbook
