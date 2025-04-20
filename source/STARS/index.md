@@ -28,6 +28,10 @@ date: 2024-05-09 11:20:06
       link: https://feixue666.com/
       avatar: https://feixue666.com/wp-content/uploads/2023/05/2023051311453123.png
       descr: 飞雪666
+    - name: 子夜星
+      link: http://www.ziyexing.com/
+      avatar: http://www.ziyexing.com/gif/tstar_log.gif.gif
+      descr: 为文者，进可强智，退可修心
 
 {% endflink %}
 
