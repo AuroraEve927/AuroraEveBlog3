@@ -32,7 +32,11 @@ date: 2024-05-09 11:20:06
       link: http://www.ziyexing.com/
       avatar: http://www.ziyexing.com/gif/tstar_log.gif.gif
       descr: 为文者，进可强智，退可修心
-
+    - name: 咖喱君的资源库
+      link: https://link3.cc/galijun
+      avatar: https://tencentcdna.production.link3.cc/profile_images/1730042203237
+      descr: 专注分享互联网资源,好资源不私藏!
+      
 {% endflink %}
 
 ## 日常使用
@@ -178,9 +182,10 @@ PPT模板
 音乐下载
 
 <div class="btn-center">
+{% btn 'https://yym4.com/',音乐魔石, ,outline red larger %}
 {% btn 'https://tool.liumingye.cn/music/?page=searchPage#/',My Free MP3, ,outline larger %}
 {% btn 'https://mixkit.co/',mixkit, ,outline larger %}
-{% btn 'https://www.playlistmusic.com.cn/playList',PLAYLIST, ,outline red larger %}
+{% btn 'https://www.playlistmusic.com.cn/playList',PLAYLIST, ,outline larger %}
 {% btn 'https://www.wxy97.com/archives/1f81713e-0ffc-4f5c-b4cc-6acb111e0062',音乐自由, ,outline larger %}
 {% btn 'https://www.mudaiba.com/',母带吧音乐, ,outline larger %}
 

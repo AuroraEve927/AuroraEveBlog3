@@ -1,0 +1,7 @@
+/*哔哩哔哩视频适配*/
+.aspect-ratio {  
+    position: relative;  
+    width: 100%; /* 设置容器宽度为父元素宽度的100% */  
+    padding-bottom: 56.25%; /* 保持16:9的宽高比（75%对于4:3，这里用56.25%对应16:9）*/  
+    overflow: hidden; /* 隐藏超出容器的内容 */  
+  }

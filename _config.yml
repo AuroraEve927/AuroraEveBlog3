@@ -180,3 +180,29 @@ bangumi: # 追番设置
 aplayer:
   meting: true
   asset_inject: false
+
+
+sitemap:
+  path: 
+    - sitemap.xml
+    - sitemap.txt
+  template: ./node_modules/hexo-generator-sitemap/sitemap.xml
+  template_txt: ./node_modules/hexo-generator-sitemap/sitemap.txt
+  rel: false
+  tags: true
+  categories: true
+
+# 设置RSS
+feed:
+  enable: true
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content: true
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: icon.png
+  autodiscovery: true
+  template:
