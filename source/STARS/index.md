@@ -36,6 +36,10 @@ date: 2024-05-09 11:20:06
       link: https://link3.cc/galijun
       avatar: https://tencentcdna.production.link3.cc/profile_images/1730042203237
       descr: 专注分享互联网资源,好资源不私藏!
+    - name: LKs 网站推荐合集
+      link: https://lkssite.vip/
+      avatar:
+      descr: B站博主 -LKs- 《良心到难以置信的网站推荐》
       
 {% endflink %}
 
