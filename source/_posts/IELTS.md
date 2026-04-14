@@ -30,6 +30,10 @@ cover: https://bu.dusays.com/2026/04/13/69dcd16ea815c.jpg
 
 [考研阅读从未如此简单过：2000年英语一考研阅读精讲text 1|逐字逐句，语法，单词讲解_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1CG4y1q73z?spm_id_from=333.788.videopod.sections&vd_source=851eb39e369398dfd488218128ad07b6)
 
+打字练习
+
+[edclub](https://www.typingclub.com/sportal/program-3.game)
+
 ## 我的笔记
 
 [IELTS学习日记 | Notion](https://www.notion.so/IELTS-3413afc5a8018017b50ae385edb2f0b5?showMoveTo=true)
